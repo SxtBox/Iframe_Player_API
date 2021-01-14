@@ -24,7 +24,7 @@
 
 /*
 HOSTED APIS https://paidcodes.albdroid.al/Players/Embed_Player/
-Playing From: YouTube, Google Drive, Facebook, Twitch, Dailymotion, Wistia, vimeo And External Sources
+Playing From: YouTube, Google Drive, Facebook, Twitch, Dailymotion, Wistia, Vude.net vimeo And External Sources
 
 RULES AL: Ky API Eshte Vetem Per Demostrim, Nese Ju e Keqperdorni Do Te Humbisni Komunikimin Me Serverat Tane
 RULES EN: This API is For Demonstration Only, If You Misuse It You Will Lose Communication With Our Servers
@@ -32,7 +32,7 @@ RULES EN: This API is For Demonstration Only, If You Misuse It You Will Lose Com
 Generator @ Kodi dot AL Dev Tools
 Code For PHP 5/7
 */
-
+// Player Allowed only HTTPS Protocol
 error_reporting(0);
 set_time_limit(0);
 date_default_timezone_set("Europe/Tirane");

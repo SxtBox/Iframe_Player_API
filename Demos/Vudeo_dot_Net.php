@@ -32,7 +32,7 @@ RULES EN: This API is For Demonstration Only, If You Misuse It You Will Lose Com
 Generator @ Kodi dot AL Dev Tools
 Code For PHP 5/7
 */
-
+// Only direct link Allowed ex: https://vudeo.net/xxxxxxxx.html
 error_reporting(0);
 set_time_limit(0);
 date_default_timezone_set("Europe/Tirane");
@@ -40,8 +40,8 @@ date_default_timezone_set("Europe/Tirane");
 $API_HOST = "https://paidcodes.albdroid.al/Players/Embed_Player/";
 $CALL_URL = "?url=";
 $Parameter = "&type=";
-$Type =  "clappr";
-$URL = "https://kodi.al/app_stream_tester/E-Type_-_Here_I_Go_Again.mp4";
+$Type = "vudeo_dot_net";
+$URL = "https://vudeo.net/6i1y8a1xl6j7.html";
 
 $API_CALL = $API_HOST. $CALL_URL . $URL . $Parameter . $Type;
 
