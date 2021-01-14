@@ -24,7 +24,7 @@
 
 /*
 HOSTED APIS https://paidcodes.albdroid.al/Players/Embed_Player/
-Playing From: YouTube, Google Drive, Facebook, Twitch, Dailymotion, Wistia, vimeo And External Sources
+Playing From: YouTube, Google Drive, Facebook, Twitch, Dailymotion, Wistia, Vudeo.net vimeo And External Sources With Clappr & JW Player
 
 RULES AL: Ky API Eshte Vetem Per Demostrim, Nese Ju e Keqperdorni Do Te Humbisni Komunikimin Me Serverat Tane
 RULES EN: This API is For Demonstration Only, If You Misuse It You Will Lose Communication With Our Servers
