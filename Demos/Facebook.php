@@ -46,7 +46,6 @@ $URL = "https://www.facebook.com/webmoderators/videos/2411617505650058";
 $API_CALL = $API_HOST. $CALL_URL . $URL . $Parameter . $Type;
 
 $DATA = file_get_contents($API_CALL);
-$GET_URL = file_get_contents($API_CALL.$_SERVER['QUERY_STRING']);
-
+// $GET_URL = file_get_contents($API_CALL.$_SERVER['QUERY_STRING']);
 echo $DATA;
 ?>
