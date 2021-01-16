@@ -46,7 +46,6 @@ $URL = "https://kodi.al/app_stream_tester/E-Type_-_Here_I_Go_Again.mp4";
 $API_CALL = $API_HOST. $CALL_URL . $URL . $Parameter . $Type;
 
 $DATA = file_get_contents($API_CALL);
-$GET_URL = file_get_contents($API_CALL.$_SERVER['QUERY_STRING']);
-
+// $GET_URL = file_get_contents($API_CALL.$_SERVER['QUERY_STRING']);
 echo $DATA;
 ?>
