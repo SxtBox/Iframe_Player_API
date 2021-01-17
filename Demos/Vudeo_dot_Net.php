@@ -36,7 +36,8 @@ Code For PHP 5/7
 error_reporting(0);
 set_time_limit(0);
 date_default_timezone_set("Europe/Tirane");
-
+// Another Player API With Content Replacer in Same Stream Site
+// https://paidcodes.albdroid.al/Players/ADS_Remover/
 $API_HOST = "https://paidcodes.albdroid.al/Players/Embed_Player/";
 $CALL_URL = "?url=";
 $Parameter = "&type=";
